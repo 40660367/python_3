@@ -1,7 +1,6 @@
 dependencies:
   - python=3.5
   - pip:
-    - spacy
     - pandas
     - ipykernel
     - scipy
@@ -13,3 +12,5 @@ dependencies:
     - thinc
     - sympy
     - nltk
+    - gensim    
+    - spacy
