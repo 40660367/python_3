@@ -4,17 +4,16 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-ipykernel = "*"
-nltk = "*"
 spacy = "*"
-pandas = "*"
-matplotlib = "*"
-seaborn = "*"
-pandas = "*"
+ipykernel = "*"
 scipy = "*"
-sympy = "*"
+numpy = "*"
+scikit-learn = "*"
+matplotlib = "*"
+pandas = "*"
+thinc = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.6"
+python_version = "2.7"
