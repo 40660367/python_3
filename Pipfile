@@ -5,9 +5,14 @@ name = "pypi"
 
 [packages]
 ipykernel = "*"
-numpy = "*"
+nltk =  "*"
+spacy = "*"
+pandas = "*"
+matplotlib = "*"
 seaborn = "*"
 pandas = "*"
+scipy = "*"
+sympy = "*"
 
 [dev-packages]
 
