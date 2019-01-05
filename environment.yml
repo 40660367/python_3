@@ -3,13 +3,16 @@ dependencies:
   - pip:
     - ipykernel
     - scipy
+    - sympy
     - scikit-learn
+    - mxnet
+    - keras
+    - pytorch
     - tensorflow
+    - pandas
     - matplotlib
     - seaborn
-    - pandas
-    - thinc
-    - sympy
     - nltk
-    - gensim    
+    - gensim
     - spacy
+    - thinc
