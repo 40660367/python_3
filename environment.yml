@@ -5,9 +5,7 @@ dependencies:
     - scipy
     - sympy
     - scikit-learn
-    - mxnet
     - keras
-    - pytorch
     - tensorflow
     - pandas
     - matplotlib
