@@ -3,7 +3,6 @@ dependencies:
   - pip:
     - spacy
     - pandas
-    - spacy
     - ipykernel
     - scipy
     - scikit-learn
@@ -12,3 +11,5 @@ dependencies:
     - seaborn
     - pandas
     - thinc
+    - sympy
+    - nltk
