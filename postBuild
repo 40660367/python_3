@@ -1,3 +1,7 @@
 python -m spacy download en
 python -m spacy download en_core_web_lg
 python -m nltk.downloader all
+python -m pip install jupyter_contrib_nbextensions
+jupyter contrib nbextension install --user --skip-running-check
+conda install -c conda-forge rise
+apt-get install vim -y
